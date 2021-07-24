@@ -1,4 +1,4 @@
-# Diary App
+# Django Diary App
 This is a simple django diary app. Django ver 3.1.2 is used. 
 
 This app is deployed on GCP App Engine and
